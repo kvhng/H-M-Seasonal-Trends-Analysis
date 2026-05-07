@@ -15,29 +15,28 @@ Insights and recommendations are provided on the following key areas:
 ## Executive Summary
 ### Overview of Findings
 
-Across 28.8 million transactions ranging from September 2018 to September 2020, data shows that H&M's sales performance is primarily driven by seasonal demand cycles, a concentrated set of core products, and online channels. Trousers, dresses, and sweaters collectively dominate both transaction volume and revenue across all 25 months analyzed. Unlike consistent year-round products, seasonal products exhibit outsized volume and revenue growth during transitions into the season. Fall items such as sweaters exhibited recurring transaction volume surges across the analysis period, including a 162% increase between August and November of 2019. Likewise, spring/summer items such as dresses also had recurring demand surges, averaging a 151% increase between March and June. Online transactions consistently outpace in-store by ~2:1 across the entire period, a trend that accelerated sharply in April 2020 when in-store transactions dropped to zero due to the COVID-19 pandemic leading to the closures of physical stores. The following sections examine seasonal trends, performance patterns, and channel behaviour, concluding with recommendations to guide marketing and merchandising prioritization.
+Across 28.8 million transactions ranging from September 2018 to September 2020, data shows that H&M's sales performance is primarily driven by seasonal demand cycles, a concentrated set of core products, and online channels. Trousers, dresses, and sweaters collectively dominate both transaction volume and revenue across all 25 months analyzed. Unlike consistent year-round products, seasonal products exhibit outsized volume and revenue growth during transitions into the season. Fall items such as sweaters exhibited recurring transaction volume surges across the analysis period, including a 162% increase between August and November of 2019. Likewise, summer items such as dresses also had recurring demand surges, averaging a 151% increase between March and June. Online transactions consistently outpace in-store by ~ 2:1 across the entire period, a trend that accelerated sharply in April 2020 when in-store transactions dropped to zero due to the COVID-19 pandemic leading to the closures of physical stores. The following sections look more closely into seasonal trends, performance patterns, and channel behaviour, concluding with recommendations to guide marketing and merchandising prioritization.
 
-Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be located on Tableau Public here.
+Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be located on Tableau Public [here](https://public.tableau.com/app/profile/kevin.phung8155/viz/HMVisualisation/Dashboard1).
 
-Dashboard 1
-
+<img width="1150" height="1000" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/88cb6fb6-2d95-46fd-85f7-318bea00a90b" />
 
 ## Insights Deep Dive
 
 ### Seasonal Sales Trends:
-* Sweater transactions surged 162% between August and November 2019, with this fall demand spike recurring consistently across all three years of available data.
+* **Sweater transactions surged 162% between August and November 2019**, with this fall demand spike recurring consistently across all three years of available data.
   
-* Dress transaction volume grew an average of 151% between March and June across 2019 and 2020, with spring consistently marking the beginning of the summer revenue ramp across all years analyzed.
+* **Dress transaction volume grew an average of 151% between March and June across 2019 and 2020**, with spring consistently marking the beginning of the summer revenue ramp across all years analyzed.
   
-* Shorts exhibited the most dramatic seasonal swing of any product, with transaction volume increasing an average of 738% between March and June across 2019 and 2020, reflecting a highly concentrated demand window.
+* Shorts exhibited the **most dramatic seasonal swing** of any product, with **transaction volume increasing an average of 738% between March and June across 2019 and 2020**, reflecting exceptional customer demand heading into summer.
 
-* Jacket transactions peaked consistently during fall (September–November), recording a 96% transaction increase in 2019, despite ranking outside the top 10 for volume across the full period.
+* Jacket transactions peaked consistently during fall (September–November), **recording a 96% transaction increase in 2019**
   
 ### Product Performance
 
-* Trousers led all product types across the full 25-month period, accounting for approximately 17% of total revenue and 13% of total transactions, maintaining this position consistently across all seasons.
+* **Trousers led all products in transaction volume and revenue** across the entire 25 month period, **accounting for 13% of total transactions and approximately 17% of the revenue**.
   
-* Trousers, Blouses, Tops, T-shirts, and Bras each maintained stable rankings in the top 10 for both revenue and transaction volume across all 25 months, showing no meaningful seasonal variation in demand.
+* **Trousers, Blouses, Tops, T-shirts, and Bras held top 10 positions for both revenue and transaction volume** across all 25 months. At the same time, these products exhibited stable performance, reflecting **no meaningful seasonal variation, hence making them year-round staples**
 
 * Jackets rank in the top 5 for revenue despite sitting outside the top 10 for transaction volume, reflecting a high price point that generates outsized revenue relative to purchase frequency.
   
