@@ -1,4 +1,3 @@
-```sql
 SELECT 
     strftime('%Y-%m', t.t_dat) AS month,
     a.product_type_name,
@@ -8,4 +7,3 @@ FROM transactions_train t
 JOIN articles a ON t.article_id = a.article_id
 GROUP BY month, a.product_type_name
 ORDER BY month, total_revenue DESC;
-```
