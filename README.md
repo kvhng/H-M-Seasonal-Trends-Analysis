@@ -12,6 +12,12 @@ Insights and recommendations are provided on the following key areas:
 
 * Sales Channel Performance: An evaluation of online vs. in-store transactions over time, highlighting the dominant sales channel and enabling marketing teams to prioritize strategies that maximize revenue growth
 
+An interactive Tableau dashboard can be located on Tableau Public [here](https://public.tableau.com/app/profile/kevin.phung8155/viz/HMVisualisation/Dashboard1).
+
+The SQL queries utilized to inspect, clean, and prepare the data can be found [here]
+
+The Excel workbook containing the exploratory data analysis and findings documentation can be found here
+
 ## Executive Summary
 ### Overview of Findings
 
