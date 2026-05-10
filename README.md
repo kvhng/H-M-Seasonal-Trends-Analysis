@@ -93,5 +93,5 @@ The following recommendations were established with the insights gathered during
 **Incomplete Annual Cycles**
 * The dataset begins in September 2018 and ends in September 2020, meaning summer 2018 and fall 2020 peaks are not fully observable. Seasonal percentage calculations for sweaters and jackets are based on a single complete annual cycle (2019), while dress and shorts averages are based on two complete cycles (2019 and 2020).
 
-**No Operational Data**
+**Absence of Operational Data**
 * The dataset contains no information on current marketing spend, inventory levels, or promotional activity, making it impossible to confirm whether recommendations are already being implemented by H&M. With further insights into current practices, this analysis could identify gaps between existing strategies and seasonal demand patterns, fostering more targeted and impactful recommendations.
