@@ -6,11 +6,11 @@ H&M is a global fast-fashion retailer selling clothing and accessories products 
 
 Insights and recommendations are provided on the following key areas:
 
-* Seasonal Sales Trends: Evaluation of historical transaction volume and revenue patterns across products, identifying strong-selling seasons and demand cycles for the top performing products
+* Seasonal Sales Trends: Evaluation of historical transaction volume and revenue patterns across products, identifying strong-selling seasons and demand cycles for the top performing products.
 
-* Product Performance Analysis: An assessment of H&M's top performing products by diving into transaction volume and revenue contributions, uncovering volume vs value disparities that inform the marketing team on which products to prioritize
+* Product Performance Analysis: An assessment of H&M's top performing products by diving into transaction volume and revenue contributions, uncovering volume vs value disparities that inform the marketing team on which products to prioritize.
 
-* Sales Channel Performance: An evaluation of online vs. in-store transactions over time, highlighting the dominant sales channel and enabling marketing teams to prioritize strategies that maximize revenue growth
+* Sales Channel Performance: An evaluation of online vs. in-store transactions over time, highlighting the dominant sales channel and enabling marketing teams to prioritize strategies that maximize revenue growth.
 
 An interactive Tableau dashboard can be located on Tableau Public [here](https://public.tableau.com/app/profile/kevin.phung8155/viz/HMVisualisation/Dashboard1).
 
@@ -37,13 +37,13 @@ Below is the Tableau dashboard for this analysis. The entire interactive dashboa
   
 * Shorts exhibited the most dramatic seasonal swing of any product, with transaction volume **increasing an average of 738% between March and June across 2019 and 2020,** reflecting exceptional customer demand heading into summer.
 
-* Jacket transactions peaked consistently during fall (September–November), **recording a 96% transaction increase in 2019**
+* Jacket transactions peaked consistently during fall (September–November), **recording a 96% transaction increase in 2019**.
   
 ### Product Performance
 
 * **Trousers led all products in transaction volume and revenue** across the entire 25 month period, accounting for 13% of total transactions and approximately 17% of the revenue.
   
-* **Trousers, Blouses, Tops, T-shirts, and Bras held top 10 positions for both revenue and transaction volume** across all 25 months. At the same time, these products exhibited stable performance, reflecting no meaningful seasonal variation, hence **making them year-round staples**
+* **Trousers, Blouses, Tops, T-shirts, and Bras held top 10 positions for both revenue and transaction volume** across all 25 months. At the same time, these products exhibited stable performance, reflecting no meaningful seasonal variation, hence **making them year-round staples**.
 
 * **Jackets rank in the top 5 for revenue** despite sitting outside the top 10 for transaction volume, reflecting a high price point that generates outsized revenue relative to purchase frequency.
   
