@@ -1,8 +1,17 @@
-# H&M Seasonal TrendsAnalysis
+# H&M Seasonal Trends Analysis
+
+## Table of Contents
+- [Analysis Background](#analysis-background)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+  - [Seasonal Sales Trends](#seasonal-sales-trends)
+  - [Product Performance](#product-performance)
+  - [Channel Insights](#channel-insights)
+- [Recommendations](#recommendations)
 
 ## Analysis Background
 
-H&M is a global fast-fashion retailer selling clothing and accessories products across multiple departments through both in-store and online channels. This project analyzes 28.8 million transactions spanning September 2018 to September 2020, covering customer purchasing behaviour across H&M's product catalogue. The analysis reveals seasonal trends, product performance patterns, and channel insights to inform merchandising and marketing decisions. Revenue metrics were normalized to support relative comparisons across product categories and seasonal periods.
+H&M is a global fast-fashion retailer selling clothing and accessories products across multiple departments through both in-store and online channels. This analysis focuses on 28.8 million transactions spanning September 2018 to September 2020, covering purchasing behaviour across H&M's product catalogue. The analysis reveals seasonal trends, product performance insights, and channel patterns to inform merchandising and marketing decisions. Revenue metrics are normalized and reveal relative comparisons across product categories and seasonal periods.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -10,7 +19,7 @@ Insights and recommendations are provided on the following key areas:
 
 * Product Performance Analysis: An assessment of H&M's top performing products by diving into transaction volume and revenue contributions, uncovering volume vs value disparities that inform the marketing team on which products to prioritize.
 
-* Sales Channel Performance: An evaluation of online vs. in-store transactions over time, highlighting the dominant sales channel and enabling marketing teams to prioritize strategies that maximize revenue growth.
+* Sales Channel Performance: An evaluation of online vs. in-store transactions over time, highlighting the most dominant sales channel and enabling marketing teams to prioritize strategies that maximize revenue growth.
 
 An interactive Tableau dashboard can be located on Tableau Public [here](https://public.tableau.com/app/profile/kevin.phung8155/viz/HMVisualisation/Dashboard1).
 
@@ -31,25 +40,25 @@ Below is the Tableau dashboard for this analysis. The entire interactive dashboa
 ## Insights Deep Dive
 
 ### Seasonal Sales Trends:
-* **Sweater transactions surged 162% between August and November 2019**, with this fall demand spike recurring consistently across all three years of available data.
+* **Sweater transactions surged 162% between August and November 2019**, with this demand spike recurring consistently throughout the available data.
   
-* **Dress transaction volume grew an average of 151% between March and June across 2019 and 2020**, with spring consistently marking the beginning of the summer revenue ramp across all years analyzed.
+* **Dress transaction volume grew an average of 151% between March and June across 2019 and 2020**, with spring consistently marking the start of the summer revenue ramp across all years analyzed.
   
-* Shorts exhibited the most dramatic seasonal swing of any product, with transaction volume **increasing an average of 738% between March and June across 2019 and 2020,** reflecting exceptional customer demand heading into summer.
+* Shorts displayed the most dramatic seasonal swing of any product, with transaction volume **increasing an average of 738% between March and June across 2019 and 2020,** reflecting notable customer demand heading into summer.
 
-* Jacket transactions peaked consistently during fall (September–November), **recording a 96% transaction increase in 2019**.
+* Jacket transactions exhibited peaks during the fall (September–November), **recording a monthly increase of 96% transaction increase in 2019** from August to September.
   
 ### Product Performance
 
 * **Trousers led all products in transaction volume and revenue** across the entire 25 month period, accounting for 13% of total transactions and approximately 17% of the revenue.
   
-* **Trousers, Blouses, Tops, T-shirts, and Bras held top 10 positions for both revenue and transaction volume** across all 25 months. At the same time, these products exhibited stable performance, reflecting no meaningful seasonal variation, hence **making them year-round staples**.
+* **Trousers, blouses, tops, t-shirts, and bras held top 10 positions for both revenue and transaction volume** across all 25 months. At the same time, these products demonstrated stable performance, reflecting no meaningful seasonal variation, **making them year-round staples**.
 
 * **Jackets rank in the top 5 for revenue** despite sitting outside the top 10 for transaction volume, reflecting a high price point that generates outsized revenue relative to purchase frequency.
   
-* Vest Tops and Bikini Tops rank in the top 10 for transaction volume but **fall outside the top 10 for revenue**, reflecting lower price points that limit their revenue contribution despite strong customer demand.
+* Vest tops and bikini tops rank in the top 10 for transaction volume but **fail to enter the top 10 for product revenue**, reflecting weaker price points that limit their revenue contribution despite carrying strong customer demand.
 
-* **Dresses dominate summer revenue** despite a more modest transaction surge (+151%) compared to Shorts (+738%).
+* **Dresses dominate summer revenue** despite a more reserved transaction surge (+151%) compared to shorts (+738%).
   
 ### Channel Insights
 
@@ -58,20 +67,31 @@ Below is the Tableau dashboard for this analysis. The entire interactive dashboa
 * In April 2020, **online transactions reached an all-time high while in-store transactions dropped to zero due to COVID-19 store closures**, representing the sharpest single-month channel divergence in the dataset.
   
 ## Recommendations
-The following recommendations were established with the insights garnered during the analysis
+The following recommendations were established with the insights gathered during the analysis
 
-* **Maintain consistent inventory levels year-round and feature trousers prominently across all seasonal campaigns as the anchor product**, pairing them with seasonal items like dresses in summer and sweaters in fall to increase basket size.
+* **Maintain consistent inventory levels year-round and feature trousers prominently across all seasonal campaigns as the anchor product**, pairing them with items like dresses during the summer and sweaters in the fall to increase basket size.
   
-* **Begin sweater promotions in August ahead of the September–November demand surge**, scaling inventory allocation into fall. As the season transitions, use bundled promotions and cross-selling with lightweight items to support end-of-season sweater sell-through.
+* **Initiate sweater promotions in August ahead of the September–November demand surge**, increasing inventory allocation for the fall. As the season transitions, use bundled promotions and cross-selling with lightweight items such as t-shirts to support season-end sweater sell-through.
 
 * **Dress campaigns should lead as the primary revenue driver**, with shorts featured prominently to drive traffic and cross-sell opportunities.
   
 * **Target jacket marketing during fall months** when demand is naturally elevated, as the product's high price point means a small increase in transaction volume yields an outsized revenue impact relative to other products.
 
-* **Leverage vest tops and bikini tops as cross-selling items** alongside dresses and high-volume summer items like shorts to increase average basket size, rather than relying on them as standalone revenue drivers.
+* **Leverage vest tops and bikini tops as cross-selling items** alongside dresses and high-volume summer items like shorts to increase average basket size.
   
-* Sustain inventory availability for year-round staples (blouses, tops, t-shirts, and bras). **Cross-sell these items alongside seasonal products to increase basket size**, such as blouses with dresses in summer and tops and t-shirts layered under sweaters in fall.
+* Sustain inventory availability for year-round products (blouses, tops, t-shirts, and bras). **Cross-sell these items alongside seasonal products to increase basket size**, such as blouses with dresses during the summer and tops and t-shirts layered under sweaters in the fall.
   
-* **Prioritize digital marketing investment** including targeted social media advertising, email campaigns, and online-exclusive promotions to reach H&M's predominantly digital customer base.
+* **Prioritize digital marketing investment** including targeted social media advertising, email campaigns, and online-exclusive promotions to reach H&M's large digital customer base.
 
 * **Use historical purchase behaviour to target customers who previously purchased seasonal items** such as dresses, sweaters, and jackets, promoting new seasonal releases ahead of peak demand periods.
+
+## Limitations
+
+**Normalized Revenue**
+* Revenue figures from the raw data are normalized and do not depict actual dollar values, limiting the ability to make absolute revenue comparisons or calculate true ROI on marketing recommendations. All revenue insights and recommendations reflect relative differences between products rather than actual financial performance. 
+
+**Incomplete Annual Cycles**
+* The dataset begins in September 2018 and ends in September 2020, meaning summer 2018 and fall 2020 peaks are not fully observable. Seasonal percentage calculations for sweaters and jackets are based on a single complete annual cycle (2019), while dress and shorts averages are based on two complete cycles (2019 and 2020).
+
+**No Operational Data**
+* The dataset contains no information on current marketing spend, inventory levels, or promotional activity, making it impossible to confirm whether recommendations are already being implemented by H&M. With further insights into current practices, this analysis could identify gaps between existing strategies and seasonal demand patterns, fostering more targeted and impactful recommendations.
