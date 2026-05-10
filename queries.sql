@@ -60,7 +60,6 @@ UPDATE articles
 SET product_type_name = 'Earrings'
 WHERE product_type_name = 'Earring';
 
-
 -- Joining cleaned transaction & article tables to facilitate exploratory data analysis in Excel
 
 SELECT 
