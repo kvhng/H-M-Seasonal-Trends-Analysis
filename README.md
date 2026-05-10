@@ -14,9 +14,10 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Tableau dashboard can be located on Tableau Public [here](https://public.tableau.com/app/profile/kevin.phung8155/viz/HMVisualisation/Dashboard1).
 
-The SQL queries utilized to inspect, clean, and prepare the data can be found [here]
+The SQL queries utilized to inspect, clean, and prepare the data can be found [here](queries.sql).
 
-The Excel workbook containing the exploratory data analysis and findings documentation can be found here
+The Excel workbook containing the exploratory data analysis and findings documentation can be found [here](https://github.com/user-attachments/files/27574063/H.M.Transactions.-.Exploratory.DA.xlsx).
+
 
 ## Executive Summary
 ### Overview of Findings
