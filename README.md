@@ -67,7 +67,7 @@ Below is the Tableau dashboard for this analysis. The entire interactive dashboa
 * In April 2020, **online transactions reached an all-time high while in-store transactions dropped to zero due to COVID-19 store closures**, representing the sharpest single-month channel divergence in the dataset.
   
 ## Recommendations
-The following recommendations were established with the insights gathered during the analysis
+The following recommendations were established with the insights gathered during the analysis:
 
 * **Maintain consistent inventory levels year-round and feature trousers prominently across all seasonal campaigns as the anchor product**, pairing them with items like dresses during the summer and sweaters in the fall to increase basket size.
   
